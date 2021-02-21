@@ -19,3 +19,9 @@ work to make more profit)
 
 Dataset --> https://bit.ly/3kXTdox
 
+Task 4:
+Exploratory Data Analysis - Terrorism
+(Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ ; As a security/defense analyst, try to find out the hot zone of terrorism.)
+
+Tableau Link:
+https://public.tableau.com/profile/prachiushah11#!/
